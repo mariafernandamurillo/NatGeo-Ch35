@@ -1,0 +1,29 @@
+table{
+    border-collapse: collapse;
+    background-color: #E9ECFF;
+}
+
+td,th{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+th{
+    background-color: #B9C8FF;
+    color: #1D2F91;
+}
+
+tr{
+    border: 2px solid white;
+}
+
+
+
+/*tr:nth-child(even){
+    background-color: rgb(227, 238, 248);
+}
+.red-flag{
+    color: red;
+}
+*/
